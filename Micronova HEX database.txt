@@ -1,0 +1,12 @@
+Tested RAM HEX Values for MICRONOVA board grouped by stove maker / models
+
+- KLOVER
+
+Klover Style (140/180/220) HYDRO MODEL
+
+Stove state: 0x21
+External boiler probe (if present): 0x4d
+Fumes temperature: 0x5a
+Working power: 0x34
+Internal boiler temperature: 0x03
+External boiler target temperature: 0x51 
